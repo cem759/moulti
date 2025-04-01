@@ -5,3 +5,4 @@ description = "Moulti is a CLI-driven Terminal User Interface (TUI) displaying a
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # clarify the control flow
+# match the style used in the rest of the module
